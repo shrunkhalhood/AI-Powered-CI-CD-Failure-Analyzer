@@ -17,6 +17,7 @@ pipeline {
         stage('Checkout Code') {
             steps {
                 checkout scm
+                sh 'exit 1'
             }
         }
 
@@ -44,7 +45,7 @@ pipeline {
                         docker push $DOCKER_IMAGE:$IMAGE_TAG
                         docker logout
                     '''
-                    sh 'exit 1'
+                    
                 }
             }
         }
