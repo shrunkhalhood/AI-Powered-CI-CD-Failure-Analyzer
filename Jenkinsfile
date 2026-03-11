@@ -44,6 +44,7 @@ pipeline {
                         docker push $DOCKER_IMAGE:$IMAGE_TAG
                         docker logout
                     '''
+                    sh 'exit 1'
                 }
             }
         }
