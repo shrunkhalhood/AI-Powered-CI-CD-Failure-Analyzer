@@ -64,23 +64,7 @@ AI-Powered CI/CD Failure Analyzer is a fully automated pipeline with an intellig
 ## 🏗️ Architecture
 
 ![AI-Powered CI/CD Failure Analyzer Architecture](docs/Architecture.png)
-```
-Jenkins Pipeline Fails
-        ↓
-CloudWatch Agent ships logs to AWS CloudWatch
-        ↓
-Metric Filter detects ERROR / FAILURE keywords
-        ↓
-CloudWatch Alarm triggers SNS
-        ↓
-SNS invokes AWS Lambda
-        ↓
-Lambda extracts error logs + calls Groq AI
-        ↓
-Groq AI returns Root Cause + Fix Steps
-        ↓
-Slack receives AI Analysis Message
-```
+
 
 ---
 
