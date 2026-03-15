@@ -63,7 +63,7 @@ AI-Powered CI/CD Failure Analyzer is a fully automated pipeline with an intellig
 
 ## 🏗️ Architecture
 
-![AI-Powered CI/CD Failure Analyzer Architecture](docs/Architecture.png)
+![AI-Powered CI/CD Failure Analyzer Architecture](docs/Architecture_2.png)
 
 
 ---
