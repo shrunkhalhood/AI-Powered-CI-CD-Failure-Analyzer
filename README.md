@@ -1,6 +1,6 @@
 # AI-Powered CI/CD Failure Analyzer 🤖
 
-> A production-grade Jenkins CI/CD pipeline with an intelligent failure analysis layer that automatically detects build failures, analyzes logs using AI, and delivers root cause analysis with fix suggestions to Slack — reducing MTTR from 20-30 minutes to under 3 minutes.
+> A production-grade Jenkins CI/CD pipeline with an intelligent failure analysis layer that automatically detects build failures, analyzes logs using AI, and delivers root cause analysis with fix suggestions to Slack — reducing MTTR from 20-30 
 
 ---
 
