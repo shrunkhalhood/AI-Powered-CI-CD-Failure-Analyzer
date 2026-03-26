@@ -1,9 +1,8 @@
 # 🐳 Mini Full Stack Demo — Dockerized Local Setup
 
 > **Branch:** `dockerized-local-setup`  
-> **Base Project:** AI-Powered-CI-CD-Failure-Analyzer
+> **Base Project:** AI-Powered-CI-CD-Failure-Analyzer  
 > **Docker Hub:** [shrunkhood/mini-full-stack-demo](https://hub.docker.com/repository/docker/shrunkhood/mini-full-stack-demo)
-
 
 ---
 
