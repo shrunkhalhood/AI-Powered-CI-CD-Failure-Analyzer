@@ -2,6 +2,8 @@
 
 > **Branch:** `dockerized-local-setup`  
 > **Base Project:** AI-Powered-CI-CD-Failure-Analyzer
+> **Docker Hub:** [shrunkhood/mini-full-stack-demo](https://hub.docker.com/repository/docker/shrunkhood/mini-full-stack-demo)
+
 
 ---
 
@@ -100,4 +102,4 @@ select * from users;
 
 ## 🙌 Author
 
-**Shrunkhal** — [@shrunkhood](https://github.com/shrunkhood)
+**Shrunkhal** — [@shrunkhalhood](https://github.com/shrunkhalhood)
